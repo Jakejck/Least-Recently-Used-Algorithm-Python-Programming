@@ -1,5 +1,14 @@
 
-# Problem 1 explanation :
+# LRU Instruction :
+
+## How to use it 
+
+You can use it in python or in a jupyternote book.
+
+It is easy to use the Anconda environment.
+
+
+## Explanation
 
 ### Design
 
